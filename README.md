@@ -50,11 +50,6 @@ NicholUILibToast.show(
 );
 ```
 
-## API Reference
-```dart
-NicholUILibToast.show
-```
-
 Uses Flutter’s Overlay system to display temporary UI elements above the widget tree.
 
 No platform channels. No native dependencies.
