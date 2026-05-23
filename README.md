@@ -29,9 +29,9 @@ dependencies:
 
 ## Usage
 ```dart
-import 'package:nichol_ui_lib_toast/personal_toast.dart';
+import 'package:nichol_ui_lib_toast/nichol_ui_lib_toast.dart';
 
-PersonalToast.show(
+NicholUILibToast.show(
   context: context,
   msg: "Hello world!",
 );
@@ -39,7 +39,7 @@ PersonalToast.show(
 
 ## Custom Usage
 ```dart
-PersonalToast.show(
+NicholUILibToast.show(
   context: context,
   msg: "Saved successfully!",
   toastLength: ToastLength.long,
