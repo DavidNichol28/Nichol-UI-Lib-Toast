@@ -1,7 +1,7 @@
 name: nichol_ui_lib_toast
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/DavidNichol28/Nichol-UI-Lib-Toast
 
 environment:
   sdk: ^3.6.0
