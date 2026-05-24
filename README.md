@@ -1,4 +1,5 @@
 # nichol_ui_lib_toast
+![pub package](https://img.shields.io/pub/v/nichol_ui_lib_toast.svg)
 
 A lightweight, cross-platform toast notification system for Flutter using only Flutter’s Overlay system.
 
